@@ -98,7 +98,9 @@ console.log(blkFriCart);
 */
 
 //or
-/*const discount = (totalShoppingCart / 100) * 20*/
+/*const discountedPrice = totalShoppingCart - (totalShoppingCart * .20)
+console.log(discountedPrice)
+*/
 
 /* EXERCISE 8
  Create a variable and assign to it an object representing a car, with properties like brand, model and licensePlate.
