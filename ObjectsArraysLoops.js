@@ -153,8 +153,10 @@ console.log(carsForRent);
 /* EXERCISE 11
  Print to the console the type of the car variable you created before, as well as the types of its licensePlate and brand properties.
 */
-
+//did not understand the task...
 /*console.log(typeof car, typeof car.brand, typeof car.licensePlate);*/
+
+/*console.log(car.model, car.licensePlate, car.make);*/
 
 /* EXERCISE 12
  Create a new variable called carsForSale assigning to it an empty array, and then insert 3 cars into it.
