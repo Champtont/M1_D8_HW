@@ -23,7 +23,9 @@ console.log(maxNum);
  Write a piece of code for getting the minimum numerical value from an array.
 */
 
-/* WRITE YOUR ANSWER HERE */
+const minNum = Math.min.apply(Math, array);
+
+console.log(minNum);
 
 /* EXTRA 4
  Write a piece of code for getting only even numerical values from an array.
